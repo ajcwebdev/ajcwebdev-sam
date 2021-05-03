@@ -322,9 +322,9 @@ Sets a proxy in front of the resource.
 "/{proxy+}"
 ```
 
-Sets a path for the proxy to send the request.
-
 ### path
+
+Sets a path for the proxy to send the request.
 
 ```json
 "/path/to/resource"
